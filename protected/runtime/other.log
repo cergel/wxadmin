@@ -1,0 +1,19 @@
+2016/11/03 15:03:18 [log] [other] 1478156597.0642_1478156598.19_1.1257839202881_lixue
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (103)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/18 15:31:26 [log] [other] tx_key_word_pathcontent is not allow empty!
+in /Users/lixue/wepiao/wxadmin/protected/models/CinemaNotification.php (320)
+in /Users/lixue/wepiao/wxadmin/protected/controllers/CinemaNotificationController.php (75)
+in /Users/lixue/wepiao/wxadmin/index.php (11)
+2017/03/03 16:38:02 [log] [other] tx_key_word_path{"beatTips":"","code":0,"level":0,"message":"No Error","selfType":0,"type":0}
+in /Users/lixue/wepiao/wxadmin/protected/models/CinemaNotification.php (320)
+in /Users/lixue/wepiao/wxadmin/protected/controllers/CinemaNotificationController.php (75)
+in /Users/lixue/wepiao/wxadmin/index.php (11)
+2017/03/03 17:18:01 [log] [other] tx_key_word_path{"beatTips":"","code":0,"level":0,"message":"No Error","selfType":0,"type":0}
+in /Users/lixue/wepiao/wxadmin/protected/models/CinemaNotification.php (320)
+in /Users/lixue/wepiao/wxadmin/protected/controllers/CinemaNotificationController.php (144)
+in /Users/lixue/wepiao/wxadmin/index.php (11)
+2017/03/03 17:26:43 [log] [other] tx_key_word_path{"beatTips":"","code":0,"level":0,"message":"No Error","selfType":0,"type":0}
+in /Users/lixue/wepiao/wxadmin/protected/models/CinemaNotification.php (320)
+in /Users/lixue/wepiao/wxadmin/protected/controllers/CinemaNotificationController.php (144)
+in /Users/lixue/wepiao/wxadmin/index.php (11)

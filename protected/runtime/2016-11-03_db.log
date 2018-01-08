@@ -1,0 +1,1282 @@
+2016/11/03 15:19:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:51 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (89)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (89)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:51 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (89)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (89)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:54 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:54 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:19:54 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (96)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:04 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:04 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:19 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (176)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (176)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:30:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (183)
+2016/11/03 15:30:19 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (183)
+2016/11/03 15:31:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:44 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (176)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:44 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (176)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (183)
+2016/11/03 15:31:44 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10 OFFSET 80
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (183)
+2016/11/03 15:31:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:51 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (176)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (176)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:31:51 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (183)
+2016/11/03 15:31:51 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10 OFFSET 110
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (183)
+2016/11/03 15:46:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:46:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:46:20 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:46:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (177)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:46:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (177)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 15:46:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (184)
+2016/11/03 15:46:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (184)
+2016/11/03 16:03:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:15 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:15 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:15 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:03:16 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:29 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:29 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:29 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:29 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 16:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`is_del`, `tag_name`, `tag_id`, `add_time`) VALUES (:yp0, :yp1, :yp2, :yp3)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:57 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:07:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:14:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:14:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:14:59 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:14:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:14:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:48:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:48:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:48:18 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:48:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:48:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 17:48:18 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (97)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:24 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:28 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_cinema_notification`
+in /Users/lixue/wepiao/wxadmin/protected/controllers/CinemaNotificationController.php (204)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_cinema_notification`
+in /Users/lixue/wepiao/wxadmin/protected/controllers/CinemaNotificationController.php (204)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_cinema_notification` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/views/cinemaNotification/index.php (92)
+in /Users/lixue/wepiao/wxadmin/protected/controllers/CinemaNotificationController.php (211)
+2016/11/03 18:21:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_cinema_notification` `t` ORDER BY iNotificationID DESC LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/views/cinemaNotification/index.php (92)
+in /Users/lixue/wepiao/wxadmin/protected/controllers/CinemaNotificationController.php (211)
+2016/11/03 18:21:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:32 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:21:35 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:07 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:15 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:18 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (196)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (196)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:23:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (203)
+2016/11/03 18:23:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (203)
+2016/11/03 18:37:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+2016/11/03 18:37:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+2016/11/03 18:37:19 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+2016/11/03 18:37:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:37:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:37:28 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:37:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:37:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:38:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:38:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:38:21 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:38:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:38:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:39:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:39:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:39:51 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:39:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:39:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:33 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:35 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:38 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:56 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:57 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:41:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:42:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:42:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:42:10 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:42:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:42:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:51:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:51:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:51:05 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:51:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:51:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:51:06 [trace] [system.db.CDbCommand] Executing SQL: insert t_user_tag (`tag_id`,`tag_name`,`add_time`) values (1002,'女',1478170266),(7889,'北京',1478170266),(10023,'男',1478170266),(10012,'80后',1478170266),(78289,'已婚',1478170266),(100213,'未婚',1478170266),(10102,'90后',1478170266),(71889,'购房',1478170266),(101023,'购车',1478170266),(10202,'未购房',1478170266),(73889,'未购车',1478170266),(100323,'天蝎座',1478170266),(10052,'摩羯座',1478170266),(78689,'金牛座',1478170266),(100283,'双子座',1478170266)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (108)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:55:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:55:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:55:11 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:55:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:55:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 18:55:11 [trace] [system.db.CDbCommand] Executing SQL: insert t_user_tag (`tag_id`,`tag_name`,`add_time`) values (1002,'女',1478170511),(7889,'北京',1478170511),(10023,'男',1478170511),(10012,'80后',1478170511),(78289,'已婚',1478170511),(100213,'未婚',1478170511),(10102,'90后',1478170511),(71889,'购房',1478170511),(101023,'购车',1478170511),(10202,'未购房',1478170511),(73889,'未购车',1478170511),(100323,'天蝎座',1478170511),(10052,'摩羯座',1478170511),(78689,'金牛座',1478170511),(100283,'双子座',1478170511)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (108)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:01:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:01:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:01:49 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:01:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:01:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:12 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:14 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:21 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t` WHERE is_del=:ycp0
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` WHERE is_del=:ycp0 LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:23 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t` WHERE is_del=:ycp0
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:23 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` WHERE is_del=:ycp0 LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:26 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `activity`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/MessageController.php (64)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:26 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `activity`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/MessageController.php (64)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `activity` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/message/status.php (175)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/MessageController.php (68)
+2016/11/03 19:05:26 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `activity` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/message/status.php (175)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/MessageController.php (68)
+2016/11/03 19:05:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:30 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:31 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (200)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:05:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:05:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (207)
+2016/11/03 19:14:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:14:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:14:54 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:14:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:14:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:06 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:07 [trace] [system.db.CDbCommand] Executing SQL: insert t_user_tag (`tag_id`,`tag_name`,`add_time`) values (1002,'女',1478171707),(7889,'北京',1478171707),(10023,'男',1478171707),(10012,'80后',1478171707),(78289,'已婚',1478171707),(100213,'未婚',1478171707),(10102,'90后',1478171707),(71889,'购房',1478171707),(101023,'购车',1478171707),(10202,'未购房',1478171707),(73889,'未购车',1478171707),(100323,'天蝎座',1478171707),(10052,'摩羯座',1478171707),(78689,'金牛座',1478171707),(100283,'双子座',1478171707)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (110)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:33 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:15:34 [trace] [system.db.CDbCommand] Executing SQL: insert t_user_tag (`tag_id`,`tag_name`,`add_time`) values (1002,'女',1478171734),(7889,'北京',1478171734),(10023,'男',1478171734),(10012,'80后',1478171734),(78289,'已婚',1478171734),(100213,'未婚',1478171734),(10102,'90后',1478171734),(71889,'购房',1478171734),(101023,'购车',1478171734),(10202,'未购房',1478171734),(73889,'未购车',1478171734),(100323,'天蝎座',1478171734),(10052,'摩羯座',1478171734),(78689,'金牛座',1478171734),(100283,'双子座',1478171734)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (110)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:14 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:14 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`tag_id`, `tag_name`) VALUES (:tag_id0, :tag_name0),(:tag_id1, :tag_name1)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (120)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:36 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (215)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (215)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (222)
+2016/11/03 19:42:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (222)
+2016/11/03 19:42:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:38 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (215)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (215)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (222)
+2016/11/03 19:42:38 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (222)
+2016/11/03 19:42:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:40 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (215)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (215)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:42:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `t_user_tag` `t`
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (222)
+2016/11/03 19:42:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `t_user_tag` `t` LIMIT 10 OFFSET 400
+in /Users/lixue/wepiao/wxadmin/protected/components/WxGridView.php (372)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/views/usertag/index.php (75)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (222)
+2016/11/03 19:43:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:19 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:19 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`tag_id`, `tag_name`) VALUES (:tag_id0, :tag_name0),(:tag_id1, :tag_name1)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (120)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:20 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:43:21 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`tag_id`, `tag_name`) VALUES (:tag_id0, :tag_name0),(:tag_id1, :tag_name1)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (120)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:44:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:44:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_log`
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (16)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:44:34 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_log` (`sUri`, `sIp`, `sData`, `iUserID`, `iCreated`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)
+in /Users/lixue/wepiao/wxadmin/protected/components/ActionLog.php (22)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:44:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:44:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `t_user_tag`
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (90)
+in /Users/lixue/wepiao/wxadmin/index.php (12)
+2016/11/03 19:44:34 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `t_user_tag` (`tag_id`, `tag_name`) VALUES (:tag_id0, :tag_name0),(:tag_id1, :tag_name1),(:tag_id2, :tag_name2),(:tag_id3, :tag_name3),(:tag_id4, :tag_name4),(:tag_id5, :tag_name5),(:tag_id6, :tag_name6),(:tag_id7, :tag_name7),(:tag_id8, :tag_name8),(:tag_id9, :tag_name9),(:tag_id10, :tag_name10),(:tag_id11, :tag_name11),(:tag_id12, :tag_name12),(:tag_id13, :tag_name13),(:tag_id14, :tag_name14),(:tag_id15, :tag_name15),(:tag_id16, :tag_name16),(:tag_id17, :tag_name17),(:tag_id18, :tag_name18),(:tag_id19, :tag_name19)
+in /Users/lixue/wepiao/wxadmin/protected/modules/message/controllers/UsertagController.php (138)
+in /Users/lixue/wepiao/wxadmin/index.php (12)

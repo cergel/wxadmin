@@ -1,0 +1,12 @@
+2016-11-07 14:55:55
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-07 14:55:55
+{"arrVoteData":{"id":"8","name":"lxtest\u6295\u7968","endTime":1478760944,"picture":"","sharePicture":"","shareTitle":"\u597d\u7247\u5206\u4eab","shareContent":"\u7cbe\u5f69\u4e0d\u5bb9\u9519\u8fc7","sharePlatform":"[]","type":"1"},"arrMoviesData":["6033"],"arrAnswerData":[],"channelId":3}
+2016-11-07 14:55:55
+false
+2016-11-07 18:15:54
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-07 18:15:54
+{"arrVoteData":{"id":"9","name":"\u79ef\u5206\u770b\u7535\u89c6\u5267","endTime":1478254530,"picture":"","sharePicture":"","shareTitle":"\u4f5b\u6321\u6740\u4f5b","shareContent":"\u8303\u5fb7\u8428\u53d1\u751f","sharePlatform":"[\"6\"]","type":"1"},"arrMoviesData":["6033"],"arrAnswerData":[{"id":"16","answer":"\u597d","fill":0,"picture":""},{"id":"17","answer":"\u5dee","fill":0,"picture":""}],"channelId":3}
+2016-11-07 18:15:54
+false

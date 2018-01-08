@@ -1,0 +1,72 @@
+2016-11-08 10:02:32
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 10:02:32
+{"arrVoteData":{"id":"10","name":"\u540d\u79f0","endTime":1478743241,"picture":"","sharePicture":"\/uploads\/vote\/10\/79db05973de10c5ba7031ad246c48b63.jpg","shareTitle":"\u526f\u4e66\u8bb0\u5f00","shareContent":"\u51cf\u80a5\u901f\u5ea6\u5feb\u673a","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"1"},"arrMoviesData":["6033"],"arrAnswerData":[{"id":"18","answer":"\u597d","fill":0,"picture":""},{"id":"19","answer":"\u4e0d\u597d\u5566","fill":0,"picture":""}],"channelId":3}
+2016-11-08 10:02:32
+false
+2016-11-08 10:19:57
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 10:19:57
+{"arrVoteData":{"id":"11","name":"\u6d4b\u8bd5pk\u6295\u7968","endTime":1478793600,"picture":"","sharePicture":"\/uploads\/vote\/11\/c3356550ced5598fc2e7fa0188a9b80d.jpg","shareTitle":"\u5bcc\u5bb6\u5927\u5ba4\u5eb7\u590d\u79d1","shareContent":"\u75af\u72c2\u7684\u6570\u636e\u5e93","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"3"},"arrMoviesData":["6033"],"arrAnswerData":[{"id":"20","answer":"pk\u9009\u98791","fill":0,"picture":"\/uploads\/vote\/11\/10834cbfd2b9a8b2cf6d3007f74a62f5.jpg"},{"id":"21","answer":"pk\u9009\u98792","fill":0,"picture":"\/uploads\/vote\/11\/47284f70bb27a3a9514fd6a58a6884f3.jpg"}],"channelId":3}
+2016-11-08 10:19:57
+false
+2016-11-08 10:43:05
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 10:43:05
+{"arrVoteData":{"id":"12","name":"pk\u6295\u7968\u6d4b\u8bd5 \u6d4b\u8bd5\u9009\u9879\u957f\u5ea6","endTime":1478659324,"picture":"","sharePicture":"\/uploads\/vote\/12\/79db05973de10c5ba7031ad246c48b63.jpg","shareTitle":"\u5206\u4eab\u6807\u9898\u6d4b\u8bd5\u6d4b\u8bd5","shareContent":"\u5206\u4eab\u5185\u5bb9\u5185\u5bb9\u6d4b\u8bd5","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"3"},"arrMoviesData":["6033"],"arrAnswerData":[],"channelId":3}
+2016-11-08 10:43:05
+false
+2016-11-08 11:14:52
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 11:14:52
+{"arrVoteData":{"id":"13","name":"\u6d4b\u8bd5\u5206\u4eab\u56fe\u7247\u5927\u5c0f\u548c\u89c4\u5219","endTime":1478747596,"picture":"","sharePicture":"\/uploads\/vote\/13\/4eb1cd7e7f443cc02fd370fa1363fa0f.jpeg","shareTitle":"\u5206\u4eab\u6807\u9898","shareContent":"\u5206\u4eab\u5185\u5bb9","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"2"},"arrMoviesData":["6033"],"arrAnswerData":[{"id":"22","answer":"\u9009\u98791","fill":0,"picture":""},{"id":"23","answer":"\u9009\u98792\u6d4b\u8bd5","fill":0,"picture":""}],"channelId":3}
+2016-11-08 11:14:52
+false
+2016-11-08 12:14:03
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 12:14:03
+{"arrVoteData":{"id":"14","name":"fdsfds","endTime":1478751072,"picture":"","sharePicture":"\/uploads\/vote\/14\/c3356550ced5598fc2e7fa0188a9b80d.jpg","shareTitle":"dfsfs","shareContent":"fdsf","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"1"},"arrMoviesData":[],"arrAnswerData":[{"id":"24","answer":"dd","fill":0,"picture":""},{"id":"25","answer":"dd","fill":0,"picture":""}],"channelId":3}
+2016-11-08 12:14:03
+false
+2016-11-08 12:14:46
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 12:14:46
+{"arrVoteData":{"id":"15","name":"\u95ee\u4e2a\u623f\u95f4\u7684\u5f00\u59cb\u5c31","endTime":1479442468,"picture":"","sharePicture":"\/uploads\/vote\/15\/c3356550ced5598fc2e7fa0188a9b80d.jpg","shareTitle":"\u8303\u5fb7\u8428\u8303\u5fb7\u8428\u53d1","shareContent":"\u8303\u5fb7\u8428\u53d1\u751f\u7684","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"1"},"arrMoviesData":["6033"],"arrAnswerData":[],"channelId":3}
+2016-11-08 12:14:46
+false
+2016-11-08 14:51:51
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 14:51:51
+{"arrVoteData":{"id":"16","name":"\u540d\u79f0","endTime":1478932662,"picture":"","sharePicture":"\/uploads\/vote\/16\/10834cbfd2b9a8b2cf6d3007f74a62f5.jpg","shareTitle":"\u6807\u9898","shareContent":"\u5185\u5bb9","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"3"},"arrMoviesData":["6033"],"arrAnswerData":[{"id":"26","answer":"\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u597d\u597d\u597d\u597d","fill":0,"picture":"\/uploads\/vote\/16\/c3356550ced5598fc2e7fa0188a9b80d.jpg"},{"id":"27","answer":"\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u7684\u597d\u597d\u597d\u597d\u597d","fill":0,"picture":"\/uploads\/vote\/16\/79db05973de10c5ba7031ad246c48b63.jpg"}],"channelId":3}
+2016-11-08 14:51:51
+false
+2016-11-08 15:03:46
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 15:03:46
+{"arrVoteData":{"id":"17","name":"\u53d1\u7684\u5f00\u59cb\u5c31\u4ed8\u6b3e\u673a","endTime":1478847805,"picture":"","sharePicture":"\/uploads\/vote\/17\/aec7732f21c73d756cfc58e891e7117b.jpg","shareTitle":"\u6fc0\u52b1\u63a8\u8350","shareContent":"\u8d85\u7ea7\u5206\u4eab\u5185\u5bb9","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"1"},"arrMoviesData":[],"arrAnswerData":[{"id":"28","answer":"\u5e8f\u8a001","fill":0,"picture":""},{"id":"29","answer":"\u90092","fill":0,"picture":""},{"id":"30","answer":"\u90093","fill":0,"picture":""}],"channelId":3}
+2016-11-08 15:03:46
+false
+2016-11-08 15:24:53
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 15:24:53
+{"arrVoteData":{"id":"26","name":"\u4f1a\u5206\u5f00\u6536\u7535\u8d39","endTime":1478762134,"picture":"","sharePicture":"\/uploads\/vote\/26\/c3356550ced5598fc2e7fa0188a9b80d.jpg","shareTitle":"\u5206\u4eab\u6807\u9898i","shareContent":"\u5206\u9500\u5185\u5bb9","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"1"},"arrMoviesData":[],"arrAnswerData":[{"id":"31","answer":"333","fill":0,"picture":""},{"id":"32","answer":"444","fill":0,"picture":""}],"channelId":3}
+2016-11-08 15:24:53
+false
+2016-11-08 15:48:37
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 15:48:37
+{"arrVoteData":{"id":"28","name":"\u6295\u7968\u540d\u79f0","endTime":1479887286,"picture":"","sharePicture":"\/uploads\/vote\/28\/10834cbfd2b9a8b2cf6d3007f74a62f5.jpg","shareTitle":"\u6807\u9898\u6d4b\u8bd5","shareContent":"\u5185\u5bb9\u6d4b\u8bd5","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"3"},"arrMoviesData":["6033"],"arrAnswerData":[{"id":"33","answer":"\u9632\u5b88\u6253\u6cd5\u65f6\u4ee3","fill":0,"picture":""},{"id":"34","answer":"\u53d1\u9001\u5230\u7b2c\u4e09\u65b9","fill":0,"picture":""}],"channelId":3}
+2016-11-08 15:48:37
+false
+2016-11-08 15:54:04
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 15:54:04
+{"arrVoteData":{"id":"29","name":"\u6295\u7968\u540d\u79f0","endTime":1479369147,"picture":"","sharePicture":"\/uploads\/vote\/29\/c3356550ced5598fc2e7fa0188a9b80d.jpg","shareTitle":"\u6807\u9898","shareContent":"\u5185\u5bb9","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"3"},"arrMoviesData":["6033"],"arrAnswerData":[{"id":"35","answer":"111","fill":0,"picture":""},{"id":"36","answer":"222","fill":0,"picture":""}],"channelId":3}
+2016-11-08 15:54:04
+false
+2016-11-08 16:16:03
+commoncgi.dev.wepiao.com/vote-manager/save
+2016-11-08 16:16:03
+{"arrVoteData":{"id":"30","name":"\u6295\u7968\u540d\u79f0 genggai","endTime":1478938063,"picture":"","sharePicture":"\/uploads\/vote\/30\/10834cbfd2b9a8b2cf6d3007f74a62f5.jpg","shareTitle":"\u5929\u4f7f","shareContent":"\u594b\u6597\u53f2","sharePlatform":"[\"6\",\"7\",\"1\",\"2\"]","type":"3"},"arrMoviesData":[],"arrAnswerData":[{"id":"37","answer":"pk\u9009\u98791","fill":0,"picture":"\/uploads\/vote\/30\/c3356550ced5598fc2e7fa0188a9b80d.jpg"},{"id":"38","answer":"pk\u9009\u98791","fill":0,"picture":"\/uploads\/vote\/30\/47284f70bb27a3a9514fd6a58a6884f3.jpg"}],"channelId":3}
+2016-11-08 16:16:03
+false

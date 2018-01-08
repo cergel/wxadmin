@@ -1,0 +1,48 @@
+2016-12-22 16:13:43
+http://commoncgi.dev.wepiao.com/mqq-manager/get-recommend-find-manager
+2016-12-22 16:13:43
+[]
+2016-12-22 16:13:43
+"exception 'Exception' with message 'Redis server can not connect!' in \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php:64\nStack trace:\n#0 \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php(37): redisManager\\redisOperator->redisConnect(Array)\n#1 \/data\/www\/common_cgi\/system\/redisManager\/redisManager.php(54): redisManager\\redisOperator::getInstance(Array)\n#2 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->__call('WYhGetAll', Array)\n#3 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->WYhGetAll('mqq_recommend_f...')\n#4 \/data\/www\/common_cgi\/app\/services\/MqqmanagerService.php(47): app\\models\\Mqqmanager->getRecommendFind()\n#5 \/data\/www\/common_cgi\/app\/controllers\/MqqmanagerController.php(43): app\\services\\MqqmanagerService->getFindRecommend()\n#6 \/data\/www\/common_cgi\/public\/index.php(251): app\\controllers\\MqqmanagerController->getRecommendFindAction()\n#7 \/data\/www\/common_cgi\/public\/index.php(331): loader::runClass(Array)\n#8 \/data\/www\/common_cgi\/public\/index.php(378): loader::run(Array)\n#9 {main}"
+2016-12-22 16:13:45
+http://commoncgi.dev.wepiao.com/mqq-manager/get-recommend-find-manager
+2016-12-22 16:13:45
+[]
+2016-12-22 16:13:45
+"exception 'Exception' with message 'Redis server can not connect!' in \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php:64\nStack trace:\n#0 \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php(37): redisManager\\redisOperator->redisConnect(Array)\n#1 \/data\/www\/common_cgi\/system\/redisManager\/redisManager.php(54): redisManager\\redisOperator::getInstance(Array)\n#2 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->__call('WYhGetAll', Array)\n#3 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->WYhGetAll('mqq_recommend_f...')\n#4 \/data\/www\/common_cgi\/app\/services\/MqqmanagerService.php(47): app\\models\\Mqqmanager->getRecommendFind()\n#5 \/data\/www\/common_cgi\/app\/controllers\/MqqmanagerController.php(43): app\\services\\MqqmanagerService->getFindRecommend()\n#6 \/data\/www\/common_cgi\/public\/index.php(251): app\\controllers\\MqqmanagerController->getRecommendFindAction()\n#7 \/data\/www\/common_cgi\/public\/index.php(331): loader::runClass(Array)\n#8 \/data\/www\/common_cgi\/public\/index.php(378): loader::run(Array)\n#9 {main}"
+2016-12-22 17:03:09
+http://commoncgi.dev.wepiao.com/mqq-manager/get-recommend-find-manager
+2016-12-22 17:03:09
+[]
+2016-12-22 17:03:11
+false
+2016-12-22 17:03:12
+http://commoncgi.dev.wepiao.com/mqq-manager/get-recommend-find-manager
+2016-12-22 17:03:12
+[]
+2016-12-22 17:03:12
+"exception 'Exception' with message 'Redis server can not connect!' in \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php:64\nStack trace:\n#0 \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php(37): redisManager\\redisOperator->redisConnect(Array)\n#1 \/data\/www\/common_cgi\/system\/redisManager\/redisManager.php(54): redisManager\\redisOperator::getInstance(Array)\n#2 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->__call('WYhGetAll', Array)\n#3 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->WYhGetAll('mqq_recommend_f...')\n#4 \/data\/www\/common_cgi\/app\/services\/MqqmanagerService.php(47): app\\models\\Mqqmanager->getRecommendFind()\n#5 \/data\/www\/common_cgi\/app\/controllers\/MqqmanagerController.php(43): app\\services\\MqqmanagerService->getFindRecommend()\n#6 \/data\/www\/common_cgi\/public\/index.php(251): app\\controllers\\MqqmanagerController->getRecommendFindAction()\n#7 \/data\/www\/common_cgi\/public\/index.php(331): loader::runClass(Array)\n#8 \/data\/www\/common_cgi\/public\/index.php(378): loader::run(Array)\n#9 {main}"
+2016-12-22 17:03:15
+http://commoncgi.dev.wepiao.com/mqq-manager/get-recommend-find-manager
+2016-12-22 17:03:15
+[]
+2016-12-22 17:03:15
+"exception 'Exception' with message 'Redis server can not connect!' in \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php:64\nStack trace:\n#0 \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php(37): redisManager\\redisOperator->redisConnect(Array)\n#1 \/data\/www\/common_cgi\/system\/redisManager\/redisManager.php(54): redisManager\\redisOperator::getInstance(Array)\n#2 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->__call('WYhGetAll', Array)\n#3 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->WYhGetAll('mqq_recommend_f...')\n#4 \/data\/www\/common_cgi\/app\/services\/MqqmanagerService.php(47): app\\models\\Mqqmanager->getRecommendFind()\n#5 \/data\/www\/common_cgi\/app\/controllers\/MqqmanagerController.php(43): app\\services\\MqqmanagerService->getFindRecommend()\n#6 \/data\/www\/common_cgi\/public\/index.php(251): app\\controllers\\MqqmanagerController->getRecommendFindAction()\n#7 \/data\/www\/common_cgi\/public\/index.php(331): loader::runClass(Array)\n#8 \/data\/www\/common_cgi\/public\/index.php(378): loader::run(Array)\n#9 {main}"
+2016-12-22 17:03:16
+http://commoncgi.dev.wepiao.com/mqq-manager/get-recommend-find-manager
+2016-12-22 17:03:16
+[]
+2016-12-22 17:03:17
+"exception 'Exception' with message 'Redis server can not connect!' in \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php:64\nStack trace:\n#0 \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php(37): redisManager\\redisOperator->redisConnect(Array)\n#1 \/data\/www\/common_cgi\/system\/redisManager\/redisManager.php(54): redisManager\\redisOperator::getInstance(Array)\n#2 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->__call('WYhGetAll', Array)\n#3 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->WYhGetAll('mqq_recommend_f...')\n#4 \/data\/www\/common_cgi\/app\/services\/MqqmanagerService.php(47): app\\models\\Mqqmanager->getRecommendFind()\n#5 \/data\/www\/common_cgi\/app\/controllers\/MqqmanagerController.php(43): app\\services\\MqqmanagerService->getFindRecommend()\n#6 \/data\/www\/common_cgi\/public\/index.php(251): app\\controllers\\MqqmanagerController->getRecommendFindAction()\n#7 \/data\/www\/common_cgi\/public\/index.php(331): loader::runClass(Array)\n#8 \/data\/www\/common_cgi\/public\/index.php(378): loader::run(Array)\n#9 {main}"
+2016-12-22 17:03:48
+http://commoncgi.dev.wepiao.com/mqq-manager/get-recommend-find-manager
+2016-12-22 17:03:48
+[]
+2016-12-22 17:03:48
+"exception 'Exception' with message 'Redis server can not connect!' in \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php:64\nStack trace:\n#0 \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php(37): redisManager\\redisOperator->redisConnect(Array)\n#1 \/data\/www\/common_cgi\/system\/redisManager\/redisManager.php(54): redisManager\\redisOperator::getInstance(Array)\n#2 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->__call('WYhGetAll', Array)\n#3 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->WYhGetAll('mqq_recommend_f...')\n#4 \/data\/www\/common_cgi\/app\/services\/MqqmanagerService.php(47): app\\models\\Mqqmanager->getRecommendFind()\n#5 \/data\/www\/common_cgi\/app\/controllers\/MqqmanagerController.php(43): app\\services\\MqqmanagerService->getFindRecommend()\n#6 \/data\/www\/common_cgi\/public\/index.php(251): app\\controllers\\MqqmanagerController->getRecommendFindAction()\n#7 \/data\/www\/common_cgi\/public\/index.php(331): loader::runClass(Array)\n#8 \/data\/www\/common_cgi\/public\/index.php(378): loader::run(Array)\n#9 {main}"
+2016-12-22 17:03:51
+http://commoncgi.dev.wepiao.com/mqq-manager/get-recommend-find-manager
+2016-12-22 17:03:51
+[]
+2016-12-22 17:03:51
+"exception 'Exception' with message 'Redis server can not connect!' in \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php:64\nStack trace:\n#0 \/data\/www\/common_cgi\/system\/redisManager\/redisOperator.php(37): redisManager\\redisOperator->redisConnect(Array)\n#1 \/data\/www\/common_cgi\/system\/redisManager\/redisManager.php(54): redisManager\\redisOperator::getInstance(Array)\n#2 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->__call('WYhGetAll', Array)\n#3 \/data\/www\/common_cgi\/app\/models\/Mqqmanager.php(39): redisManager\\redisManager->WYhGetAll('mqq_recommend_f...')\n#4 \/data\/www\/common_cgi\/app\/services\/MqqmanagerService.php(47): app\\models\\Mqqmanager->getRecommendFind()\n#5 \/data\/www\/common_cgi\/app\/controllers\/MqqmanagerController.php(43): app\\services\\MqqmanagerService->getFindRecommend()\n#6 \/data\/www\/common_cgi\/public\/index.php(251): app\\controllers\\MqqmanagerController->getRecommendFindAction()\n#7 \/data\/www\/common_cgi\/public\/index.php(331): loader::runClass(Array)\n#8 \/data\/www\/common_cgi\/public\/index.php(378): loader::run(Array)\n#9 {main}"

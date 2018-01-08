@@ -1,0 +1,19 @@
+Error: Unknown action: index
+
+Usage: yiic.php vote setStatus
+
+Could not open input file: /date/console.php
+Error: Unknown action: index
+
+Usage: yiic.php vote setStatus
+
+update t_vote set end_flag = 1 where end_flag = 0 and end_time <= 1478601676exception 'CException' with message 'Property "CConsoleApplication.dz" is not defined.' in /Users/lixue/wepiao/wxadmin/framework/base/CComponent.php:130
+Stack trace:
+#0 /Users/lixue/wepiao/wxadmin/framework/base/CModule.php(105): CComponent->__get('dz')
+#1 /Users/lixue/wepiao/wxadmin/protected/commands/VoteCommand.php(17): CModule->__get('dz')
+#2 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleCommandRunner.php(71): VoteCommand->run(Array)
+#3 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#4 /Users/lixue/wepiao/wxadmin/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#5 /Users/lixue/wepiao/wxadmin/framework/yiic.php(33): CApplication->run()
+#6 /Users/lixue/wepiao/wxadmin/protected/yiic.php(7): require_once('/Users/lixue/we...')
+#7 {main}

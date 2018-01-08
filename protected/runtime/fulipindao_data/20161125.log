@@ -1,0 +1,36 @@
+2016-11-25 14:06:21
+SELECT t_fulipindao.*,t_fulipindao_channel.channel_id,t_fulipindao_channel.url,t_fulipindao_city.city_id
+                FROM t_fulipindao INNER JOIN t_fulipindao_channel ON t_fulipindao.id = t_fulipindao_channel.f_id
+                INNER JOIN t_fulipindao_city ON t_fulipindao_city.f_id = t_fulipindao.id
+                where t_fulipindao.status='1' AND t_fulipindao.`down_time` >1480054041 AND t_fulipindao.up_time <= '1480053981'
+                ORDER BY t_fulipindao.up_time DESC
+2016-11-25 14:12:09
+SELECT t_fulipindao.*,t_fulipindao_channel.channel_id,t_fulipindao_channel.url,t_fulipindao_city.city_id
+                FROM t_fulipindao INNER JOIN t_fulipindao_channel ON t_fulipindao.id = t_fulipindao_channel.f_id
+                INNER JOIN t_fulipindao_city ON t_fulipindao_city.f_id = t_fulipindao.id
+                where t_fulipindao.status='1' AND t_fulipindao.`down_time` >1480054389 AND t_fulipindao.up_time <= '1480054329'
+                ORDER BY t_fulipindao.up_time DESC
+2016-11-25 14:19:02
+SELECT t_fulipindao.*,t_fulipindao_channel.channel_id,t_fulipindao_channel.url,t_fulipindao_city.city_id
+                FROM t_fulipindao INNER JOIN t_fulipindao_channel ON t_fulipindao.id = t_fulipindao_channel.f_id
+                INNER JOIN t_fulipindao_city ON t_fulipindao_city.f_id = t_fulipindao.id
+                where t_fulipindao.status='1' AND t_fulipindao.`down_time` >1480054802 AND t_fulipindao.up_time <= '1480054742'
+                ORDER BY t_fulipindao.up_time DESC
+2016-11-25 14:27:18
+SELECT t_fulipindao.*,t_fulipindao_channel.channel_id,t_fulipindao_channel.url,t_fulipindao_city.city_id
+                FROM t_fulipindao INNER JOIN t_fulipindao_channel ON t_fulipindao.id = t_fulipindao_channel.f_id
+                INNER JOIN t_fulipindao_city ON t_fulipindao_city.f_id = t_fulipindao.id
+                where t_fulipindao.status='1' AND t_fulipindao.`down_time` >1480055298 AND t_fulipindao.up_time <= '1480055238'
+                ORDER BY t_fulipindao.up_time DESC
+2016-11-25 14:33:54
+SELECT t_fulipindao.*,t_fulipindao_channel.channel_id,t_fulipindao_channel.url,t_fulipindao_city.city_id
+                FROM t_fulipindao INNER JOIN t_fulipindao_channel ON t_fulipindao.id = t_fulipindao_channel.f_id
+                INNER JOIN t_fulipindao_city ON t_fulipindao_city.f_id = t_fulipindao.id
+                where t_fulipindao.status='1' AND t_fulipindao.`down_time` >1480055694 AND t_fulipindao.up_time <= '1480055634'
+                ORDER BY t_fulipindao.up_time DESC
+2016-11-25 14:38:32
+SELECT t_fulipindao.*,t_fulipindao_channel.channel_id,t_fulipindao_channel.url,t_fulipindao_city.city_id
+                FROM t_fulipindao INNER JOIN t_fulipindao_channel ON t_fulipindao.id = t_fulipindao_channel.f_id
+                INNER JOIN t_fulipindao_city ON t_fulipindao_city.f_id = t_fulipindao.id
+                where t_fulipindao.status='1' AND t_fulipindao.`down_time` >1480055972 AND t_fulipindao.up_time <= '1480055912'
+                ORDER BY t_fulipindao.up_time DESC

@@ -1,0 +1,30 @@
+2017-02-15 11:24:00
+http://commoncgi-pre.wepiao.com/v1/pintuan/saveRedis
+2017-02-15 11:24:00
+{"active_id":"6","type":"create"}
+2017-02-15 11:24:00
+"{\"ret\":0,\"sub\":0,\"msg\":\"success\",\"data\":{\"active_id\":\"6\",\"movie_id\":\"7221\",\"movie_name\":\"\\u5bc4\\u751f\\u517d\",\"title\":\"\\u5bc4\\u751f\\u517d\\u817e\\u8baf\\u6d4b\\u8bd5\",\"group_count\":\"100\",\"static_channel\":\"\",\"bonus_type\":\"0\",\"bonus_value\":\"10\",\"bonus_id\":\"5862\",\"status\":\"1\"}}"
+2017-02-15 11:33:00
+http://commoncgi-pre.wepiao.com/v1/pintuan/saveRedis
+2017-02-15 11:33:00
+{"active_id":"7","type":"create"}
+2017-02-15 11:33:00
+"{\"ret\":0,\"sub\":0,\"msg\":\"success\",\"data\":{\"active_id\":\"7\",\"movie_id\":\"7019\",\"movie_name\":\"\\u94c1\\u62f3\",\"title\":\"\\u94c1\\u62f3\\u62fc\\u56e2\\u6d4b\\u8bd5\",\"group_count\":\"100\",\"static_channel\":\"\",\"bonus_type\":\"0\",\"bonus_value\":\"10\",\"bonus_id\":\"5862\",\"status\":\"1\"}}"
+2017-02-15 11:33:51
+http://commoncgi-pre.wepiao.com/v1/pintuan/saveRedis
+2017-02-15 11:33:51
+{"active_id":"7","type":"update"}
+2017-02-15 11:33:51
+"{\"ret\":0,\"sub\":0,\"msg\":\"success\",\"data\":{\"active_id\":\"7\",\"movie_id\":\"7019\",\"movie_name\":\"\\u94c1\\u62f3\",\"title\":\"\\u94c1\\u62f3\\u62fc\\u56e2\\u6d4b\\u8bd5\",\"group_count\":\"100\",\"static_channel\":\"\",\"bonus_type\":\"0\",\"bonus_value\":\"10\",\"bonus_id\":\"5862\",\"status\":\"1\"}}"
+2017-02-15 16:09:25
+http://commoncgi-pre.wepiao.com/v1/pintuan/saveRedis
+2017-02-15 16:09:25
+{"active_id":"8","type":"create"}
+2017-02-15 16:09:25
+"{\"ret\":0,\"sub\":0,\"msg\":\"success\",\"data\":{\"active_id\":\"8\",\"movie_id\":\"7189\",\"movie_name\":\"\\u9ca8\\u6ee9\",\"title\":\"\\u6c99\\u6ee9\\u6d4b\\u8bd5\",\"group_count\":\"100\",\"static_channel\":\"\",\"bonus_type\":\"0\",\"bonus_value\":\"10\",\"bonus_id\":\"5862\",\"status\":\"1\"}}"
+2017-02-15 16:09:39
+http://commoncgi-pre.wepiao.com/v1/pintuan/saveRedis
+2017-02-15 16:09:39
+{"active_id":"8","type":"update"}
+2017-02-15 16:09:40
+"{\"ret\":0,\"sub\":0,\"msg\":\"success\",\"data\":{\"active_id\":\"8\",\"movie_id\":\"7189\",\"movie_name\":\"\\u9ca8\\u6ee9\",\"title\":\"\\u6c99\\u6ee9\\u6d4b\\u8bd5\",\"group_count\":\"100\",\"static_channel\":\"\",\"bonus_type\":\"0\",\"bonus_value\":\"10\",\"bonus_id\":\"5862\",\"status\":\"1\"}}"

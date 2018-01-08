@@ -1,0 +1,18 @@
+2017-03-02 17:05:15
+http://commoncgi-pre.wepiao.com/v1/pintuan/saveRedis
+2017-03-02 17:05:15
+{"active_id":"9","type":"create"}
+2017-03-02 17:05:15
+"{\"ret\":0,\"sub\":0,\"msg\":\"success\",\"data\":{\"active_id\":\"9\",\"movie_id\":\"6325\",\"movie_name\":\"\\u4e5d\\u6761\\u547d\",\"title\":\"\\u4e5d\\u6761\\u547d\\u6d4b\\u8bd5\",\"group_count\":\"100\",\"static_channel\":\"\",\"bonus_type\":\"0\",\"bonus_value\":\"10\",\"bonus_id\":\"5862\",\"status\":\"1\",\"people_num\":\"0\",\"keep_hour\":\"24\"}}"
+2017-03-02 17:05:23
+http://commoncgi-pre.wepiao.com/v1/pintuan/saveRedis
+2017-03-02 17:05:23
+{"active_id":"9","type":"update"}
+2017-03-02 17:05:23
+"{\"ret\":0,\"sub\":0,\"msg\":\"success\",\"data\":{\"active_id\":\"9\",\"movie_id\":\"6325\",\"movie_name\":\"\\u4e5d\\u6761\\u547d\",\"title\":\"\\u4e5d\\u6761\\u547d\\u6d4b\\u8bd5\",\"group_count\":\"100\",\"static_channel\":\"\",\"bonus_type\":\"0\",\"bonus_value\":\"10\",\"bonus_id\":\"5862\",\"status\":\"1\",\"people_num\":\"0\",\"keep_hour\":\"24\"}}"
+2017-03-02 17:05:30
+http://commoncgi-pre.wepiao.com/v1/pintuan/saveRedis
+2017-03-02 17:05:30
+{"active_id":"9","type":"update"}
+2017-03-02 17:05:30
+"{\"ret\":0,\"sub\":0,\"msg\":\"success\",\"data\":{\"active_id\":\"9\",\"movie_id\":\"6325\",\"movie_name\":\"\\u4e5d\\u6761\\u547d\",\"title\":\"\\u4e5d\\u6761\\u547d\\u6d4b\\u8bd5\",\"group_count\":\"100\",\"static_channel\":\"\",\"bonus_type\":\"0\",\"bonus_value\":\"10\",\"bonus_id\":\"5862\",\"status\":\"1\",\"people_num\":\"0\",\"keep_hour\":\"24\"}}"

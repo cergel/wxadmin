@@ -1,0 +1,6 @@
+2016-11-01 10:28:02
+SELECT t_fulipindao.*,t_fulipindao_channel.channel_id,t_fulipindao_channel.url,t_fulipindao_city.city_id
+                FROM t_fulipindao INNER JOIN t_fulipindao_channel ON t_fulipindao.id = t_fulipindao_channel.f_id
+                INNER JOIN t_fulipindao_city ON t_fulipindao_city.f_id = t_fulipindao.id
+                where t_fulipindao.status='1' AND t_fulipindao.`down_time` >1477967342 AND t_fulipindao.up_time <= '1477967282'
+                ORDER BY t_fulipindao.up_time DESC

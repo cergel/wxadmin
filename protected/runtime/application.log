@@ -1,0 +1,52 @@
+2016/11/08 10:41:47 [error] [exception.CException] exception 'CException' with message 'Property "CConsoleApplication.dz" is not defined.' in /Users/lixue/wepiao/wxadmin/framework/base/CComponent.php:130
+Stack trace:
+#0 /Users/lixue/wepiao/wxadmin/framework/base/CModule.php(105): CComponent->__get('dz')
+#1 /Users/lixue/wepiao/wxadmin/protected/commands/VoteCommand.php(17): CModule->__get('dz')
+#2 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleCommandRunner.php(71): VoteCommand->run(Array)
+#3 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#4 /Users/lixue/wepiao/wxadmin/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#5 /Users/lixue/wepiao/wxadmin/framework/yiic.php(33): CApplication->run()
+#6 /Users/lixue/wepiao/wxadmin/protected/yiic.php(7): require_once('/Users/lixue/we...')
+#7 {main}
+---
+2016/12/29 09:08:57 [error] [php] date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. (/Users/lixue/wepiao/wxadmin/protected/commands/MovieListCommand.php:19)
+Stack trace:
+#0 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /Users/lixue/wepiao/wxadmin/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /Users/lixue/wepiao/wxadmin/framework/yiic.php(33): CConsoleApplication->run()
+#3 /Users/lixue/wepiao/wxadmin/protected/yiic.php(7): require_once()
+
+2017/03/10 09:45:47 [error] [php] include(Redis.php): failed to open stream: No such file or directory (/Users/lixue/wepiao/wxadmin/framework/YiiBase.php:432)
+Stack trace:
+#0 /Users/lixue/wepiao/wxadmin/protected/extensions/RedisManager.php(47): spl_autoload_call()
+#1 /Users/lixue/wepiao/wxadmin/protected/extensions/RedisManager.php(32): RedisManager->connect()
+#2 /Users/lixue/wepiao/wxadmin/protected/extensions/RedisManager.php(39): RedisManager->__construct()
+#3 /Users/lixue/wepiao/wxadmin/protected/components/FlushCdn.php(24): getInstance()
+#4 /Users/lixue/wepiao/wxadmin/protected/components/FlushCdn.php(66): setRedis()
+#5 /Users/lixue/wepiao/wxadmin/protected/components/FlushCdn.php(57): _getRedisCdn()
+#6 /Users/lixue/wepiao/wxadmin/protected/commands/FlushCdnCommand.php(19): getUrlFromRedis()
+#7 unknown(0): FlushCdnCommand->actionConsumeRedis()
+#8 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#9 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleCommandRunner.php(71): FlushCdnCommand->run()
+#10 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#11 /Users/lixue/wepiao/wxadmin/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#12 /Users/lixue/wepiao/wxadmin/framework/yiic.php(33): CConsoleApplication->run()
+#13 /Users/lixue/wepiao/wxadmin/protected/yiic.php(7): require_once()
+
+2017/03/10 09:47:31 [error] [php] include(Redis.php): failed to open stream: No such file or directory (/Users/lixue/wepiao/wxadmin/framework/YiiBase.php:432)
+Stack trace:
+#0 /Users/lixue/wepiao/wxadmin/protected/extensions/RedisManager.php(47): spl_autoload_call()
+#1 /Users/lixue/wepiao/wxadmin/protected/extensions/RedisManager.php(32): RedisManager->connect()
+#2 /Users/lixue/wepiao/wxadmin/protected/extensions/RedisManager.php(39): RedisManager->__construct()
+#3 /Users/lixue/wepiao/wxadmin/protected/components/FlushCdn.php(24): getInstance()
+#4 /Users/lixue/wepiao/wxadmin/protected/components/FlushCdn.php(66): setRedis()
+#5 /Users/lixue/wepiao/wxadmin/protected/components/FlushCdn.php(57): _getRedisCdn()
+#6 /Users/lixue/wepiao/wxadmin/protected/commands/FlushCdnCommand.php(19): getUrlFromRedis()
+#7 unknown(0): FlushCdnCommand->actionConsumeRedis()
+#8 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#9 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleCommandRunner.php(71): FlushCdnCommand->run()
+#10 /Users/lixue/wepiao/wxadmin/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#11 /Users/lixue/wepiao/wxadmin/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#12 /Users/lixue/wepiao/wxadmin/framework/yiic.php(33): CConsoleApplication->run()
+#13 /Users/lixue/wepiao/wxadmin/protected/yiic.php(7): require_once()
+

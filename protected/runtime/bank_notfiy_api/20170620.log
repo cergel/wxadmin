@@ -1,0 +1,24 @@
+2017-06-20 10:31:15
+http://wxpay.test.ns.wepiao.com/v1/wxpay/acceptBankActivityNotify
+2017-06-20 10:31:15
+{"bankActivityId":"62","bankCode":"ZG1003","title":"\u4e2d\u56fd\u94f6\u884c\u7279\u60e0","summary":"\u6d3b\u52a8\u7b80\u4ecb\u5185\u5bb9","detail":"\u7cfb\u90a3\u4e2aIQ\u90a3\u4e2a\u8303\u5fb7\u8428","status":"1","timeStart":"20170519160723","timeEnd":"20170603160725","timeSellOut":"20170525160727","warnNum":"2222","requestId":"3","timeStr":"20170620103115","sign":"7F91B631CFA0DB6FD23833CE8DDD8C3D"}
+2017-06-20 10:31:15
+{"ret":"0","sub":"0","msg":"success"}
+2017-06-20 10:46:39
+http://wxpay.test.ns.wepiao.com/v1/wxpay/acceptBankActivityNotify
+2017-06-20 10:46:39
+{"bankActivityId":"62","bankCode":"ZG1003","title":"\u4e2d\u56fd\u94f6\u884c\u7279\u60e0","summary":"\u6d3b\u52a8\u7b80\u4ecb\u5185\u5bb9","detail":"\u7cfb\u90a3\u4e2aIQ\u90a3\u4e2a\u8303\u5fb7\u8428","status":"1","timeStart":"20170519160723","timeEnd":"20170603160725","timeSellOut":"20170525160727","warnNum":"2222","requestId":"3","timeStr":"20170620104639","sign":"E4A95850063E1CBF3E2195C84A8D7C0D"}
+2017-06-20 10:46:39
+{"ret":"0","sub":"0","msg":"success"}
+2017-06-20 15:01:43
+http://wxpay.test.ns.wepiao.com/v1/wxpay/acceptBankActivityNotify
+2017-06-20 15:01:43
+{"bankActivityId":"61","bankCode":"JS1006","title":"\u4e2d\u56fd\u5efa\u8bbe\u94f6\u884c\u7279\u60e0","summary":"\u6d3b\u52a8\u7b80\u4ecb\u5185\u5bb9","detail":"\u7cfb\u90a3\u4e2aIQ\u90a3\u4e2a\u8303\u5fb7\u8428","status":"1","timeStart":"20170519160723","timeEnd":"20170603160725","timeSellOut":"20170525160727","warnNum":"2222","requestId":"6","timeStr":"20170620150143","sign":"454E684F755500DFBF186BB6FACCA3B9"}
+2017-06-20 15:01:43
+{"ret":"0","sub":"0","msg":"success"}
+2017-06-20 15:02:16
+http://wxpay.test.ns.wepiao.com/v1/wxpay/acceptBankActivityNotify
+2017-06-20 15:02:16
+{"bankActivityId":"61","bankCode":"JS1006","title":"\u4e2d\u56fd\u5efa\u8bbe\u94f6\u884c\u7279\u60e0","summary":"\u6d3b\u52a8\u7b80\u4ecb\u5185\u5bb9","detail":"\u7cfb\u90a3\u4e2aIQ\u90a3\u4e2a\u8303\u5fb7\u8428","status":"1","timeStart":"20170519160723","timeEnd":"20170603160725","timeSellOut":"20170525160727","warnNum":"2222","requestId":"6","timeStr":"20170620150216","sign":"2378F5F2E76B47237DAD29CF977A9A5F"}
+2017-06-20 15:02:16
+{"ret":"0","sub":"0","msg":"success"}
